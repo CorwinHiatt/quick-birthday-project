@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+.image-fluid{
+
+}
+
 .b-day{
   padding: 100px;
   color: rgb(242, 235, 240);
@@ -50,5 +54,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+.pic-container{
+  background-color: #bd2aee;
+  flex-direction: column;
 }
 

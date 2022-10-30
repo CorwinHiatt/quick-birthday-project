@@ -6,6 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <br />
+        
+        
         <p>
          Hello <code></code> Lea Lavon Hiatt 
         </p>
@@ -18,7 +21,17 @@ function App() {
         >
           Learn React
         </a>
+
       </header>
+      <footer>
+        <h4>Happy Birthday Too You...</h4>
+        <h4>Happy Birthday Too You...</h4>
+        <h4>Happy Birthday Too You...</h4>
+        <h4>Happy Birthday Too You...</h4>
+        <div className='pic-container' >
+        </div> 
+        </footer>
+      
     </div>
   );
 }
