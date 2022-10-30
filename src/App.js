@@ -10,12 +10,12 @@ function App() {
         
         
         <p>
-         Hello <code></code> Lea Lavon Hiatt 
+         Hello Lea Lavon Hiatt 
         </p>
-        <button className='b-day'>Press Birthday Girl ⬇</button>
+        <button className='b-day'>Press link Birthday Girl ⬇</button>
         <a
           className="App-link"
-          href="https://www.google.com/search?q=Happy+33rd+Birthday&tbm=isch&ved=2ahUKEwi8j4_S64b7AhV5wCkDHbQlBPsQ2-cCegQIABAA&oq=Happy+33rd+Birthday&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BwgAELEDEEM6BAgAEEM6BggAEAcQHjoICAAQgAQQsQNQ1QhY8zNg-jtoAHAAeACAAU6IAbEGkgECMTKYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=mNhdY7zjOfmAp8kPtMuQ2A8&bih=795&biw=500"
+          href="https://www.youtube.com/watch?v=oB46t1Eij0g"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -23,11 +23,11 @@ function App() {
         </a>
 
       </header>
-      <footer>
-        <h4>Happy Birthday Too You...</h4>
-        <h4>Happy Birthday Too You...</h4>
-        <h4>Happy Birthday Too You...</h4>
-        <h4>Happy Birthday Too You...</h4>
+      <footer className='foot'>
+        <h4 className='one'>Happy Birthday Too You...</h4>
+        <h4 className='two'>Happy Birthday Too You...</h4>
+        <h4 className='three'>Happy Birthday dear Lea ...</h4>
+        <h4 className='four'>Happy Birthday Too You...</h4>
         <div className='pic-container' >
         </div> 
         </footer>
